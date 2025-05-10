@@ -13,30 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development Workflow/Code Editor.md",
+                "file": "기능 구체화/2. 취소 관리/1-1. 취소 관리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code Editor"
+              "title": "1-1. 취소 관리"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "75a4d54aa3c488df",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7194035a1df75381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기능 구체화/판매 관리 기능.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "판매 관리 기능"
-            }
-          },
-          {
-            "id": "883652c6731a7bb5",
+            "id": "ce2e350ed3279b6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +41,7 @@
               "title": "판매 관리 기능"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기능 구체화/판매 관리 기능.md",
+                "file": "기능 구체화/2. 취소 관리/1-1. 취소 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "판매 관리 기능 의 백링크"
+              "title": "1-1. 취소 관리 의 백링크"
             }
           },
           {
@@ -179,8 +170,19 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "f39f4deacca34ba1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,17 +200,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "883652c6731a7bb5",
+  "active": "21af2ff7154d9c22",
   "lastOpenFiles": [
-    "기능 구체화/의문.md",
+    "기능 구체화/1. 주문 관리/1-1. 주문 통합 검색.md",
+    "기능 구체화/2. 취소 관리/1-1. 취소 관리.md",
+    "기능 구체화/2. 취소 관리/취소 종류.md",
     "기능 구체화/1. 주문 관리/1-2. 주문 처리.md",
+    "기능 구체화/2. 취소 관리/취소 기능의 확장.md",
+    "기능 구체화/주문 상태 종류.md",
+    "Development Workflow/Code Editor.md",
     "기능 구체화/판매 관리 기능.md",
+    "무제.canvas",
+    "2025-05-10.md",
+    "기능 구체화/의문.md",
     "기능 구체화/1. 주문 관리/1-1. 주문 조회",
     "기능 구체화/무제",
     "기능 구체화/1. 주문 관리",
     "기능 구체화/2. 취소 관리",
-    "기능 구체화/2. 취소 관리/취소 종류.md",
-    "Development Workflow/Code Editor.md",
     "tool/cursor/0. cursor.md",
     "tool/cursor/사용 방법.md",
     "tool/cursor/참고자료.md",
