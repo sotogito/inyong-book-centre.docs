@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tool/cursor/0. cursor.md",
+                "file": "tool/MCP/0. MCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. cursor"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b957125f9fda2033",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b4ac97646189f31d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "0. MCP"
             }
           }
         ]
@@ -94,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fdb80d4e506d351e",
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "tool/MCP/0. MCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "0. MCP 의 백링크"
             }
           },
           {
@@ -187,8 +172,11 @@
   },
   "active": "21af2ff7154d9c22",
   "lastOpenFiles": [
-    "Welcome.md",
     "tool/cursor/0. cursor.md",
+    "tool/MCP/0. MCP.md",
+    "tool/MCP",
+    "tool/cursor/무제.md",
+    "Welcome.md",
     "tool/cursor",
     "tool",
     "2025-05-07.md"
