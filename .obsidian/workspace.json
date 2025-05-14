@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "DTO DAO"
             }
+          },
+          {
+            "id": "765b0dca88efc022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DTO DAO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DTO DAO"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2856d935f27d4e0f",
+  "active": "765b0dca88efc022",
   "lastOpenFiles": [
-    "FE code/1-1. 주문관리.md",
+    "Enum.md",
     "DTO DAO.md",
+    "FE code/1-1. 주문관리.md",
     "FE code/1. 주문관리.md",
     "기능 구체화/1. 주문 관리/1-1. 주문 통합 검색.md",
     "기능 구체화/만약 주문 상태(상수)를 확장한다면.md",

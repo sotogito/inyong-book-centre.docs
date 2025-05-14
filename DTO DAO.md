@@ -42,3 +42,11 @@ OrderResponseDto -> 선택된orderId -> OrderDto
 
 #### 주문 상태 변경 - UPDATE
 OrderResponseDto -> 선택된 orderId + 변경값Enum -> 결과
+
+
+
+
+
+ - 재고 차감은 언제? 주문완료가 되면 배송차감
+ - 배송완료는 유지
+ - 만약 취소일 경우 되돌리기?
