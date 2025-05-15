@@ -1,11 +1,15 @@
 - OrderDao
-	- OrderResponseDto getOrderListByFilter(OrderRequestFilterDto filter); 
-		- 판매 조회 목록
-	- OrderDto
-
-
-
+	- List\<OrderSimpleResponseDto\> selectOrderListByFilter(OrderRequestFilterDto filter); 
+		- 주문 목록 조회
+	- OrderResponseDto selectOrderById(int orderId);
+		- 상세보기 - 1개 주문
+	- int updateOrderStatus(OrderStatusUpdateRequestDto orderStatusUpdateRequest)
+		- 주문 상태 변경
+	- int selectOrderListCountByFilter(OrderRequestFilterDto filter);
 
 --- 
 - CustomerDao
-	- 
+	- CustomerDto selectCustormerById(int userId);
+---
+- BookDao
+	- int updateBookQuantity(BookInventoryupdateRequestDto)

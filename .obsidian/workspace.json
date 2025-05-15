@@ -6,7 +6,6 @@
       {
         "id": "bfcf48eaa8604028",
         "type": "tabs",
-        "dimension": 44.83793517406963,
         "children": [
           {
             "id": "21af2ff7154d9c22",
@@ -29,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "FE code/1-1. 주문관리.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -37,67 +36,38 @@
             }
           },
           {
-            "id": "2856d935f27d4e0f",
+            "id": "fdd467f1fae2dff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DTO DAO.md",
+                "file": "설계/dto 2차 - ex) OrderRequestDto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DTO DAO"
-            }
-          },
-          {
-            "id": "765b0dca88efc022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DTO DAO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DTO DAO"
-            }
-          },
-          {
-            "id": "8328e41dcf135181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "설계/dao.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "dao"
+              "title": "dto 2차 - ex) OrderRequestDto"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
-        "id": "611b4284f33f8e03",
+        "id": "dc57c3350f9701a1",
         "type": "tabs",
-        "dimension": 55.162064825930365,
         "children": [
           {
-            "id": "c9d4879221e4a846",
+            "id": "c33cbaf7e8442bf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "설계/dto.md",
+                "file": "설계/service interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dto"
+              "title": "service interface"
             }
           }
         ]
@@ -123,7 +93,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -157,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 300
   },
   "right": {
     "id": "fdb80d4e506d351e",
@@ -250,31 +220,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9d4879221e4a846",
+  "active": "c33cbaf7e8442bf9",
   "lastOpenFiles": [
-    "설계/dao.md",
-    "설계/dto.md",
-    "DTO DAO.md",
-    "설계/Enum.md",
+    "설계/dto 2차 - ex) OrderRequestDto.md",
     "설계/service interface.md",
+    "설계/dao.md",
+    "설계/Enum.md",
+    "dto 3차 - inner class dto.md",
+    "설계/dto 1차 - ex) OrderDto.md",
+    "FE code/1-1. 주문관리.md",
+    "설계/무제",
+    "설계/dto/1차.md",
+    "설계/dto",
+    "tool/Cursor/참고자료.md",
+    "tool/Cursor/사용 방법.md",
+    "기능 구체화/만약 주문 상태(상수)를 확장한다면.md",
     "유효검사.md",
     "설계",
     "Untitled.md",
-    "FE code/1-1. 주문관리.md",
-    "FE code/1. 주문관리.md",
-    "기능 구체화/1. 주문 관리/1-1. 주문 통합 검색.md",
-    "기능 구체화/만약 주문 상태(상수)를 확장한다면.md",
+    "DTO DAO.md",
     "FE code/2. 상세.md",
+    "FE code/1. 주문관리.md",
     "FE code",
+    "기능 구체화/1. 주문 관리/1-1. 주문 통합 검색.md",
     "기능 구체화/2. 취소 관리/취소 종류.md",
     "tool/Figma",
     "기능 구체화/2. 취소 관리/취소 기능의 확장.md",
@@ -284,19 +261,12 @@
     "기능 구체화/1. 주문 관리/1-2. 주문 처리 (발송 관리).md",
     "기능 구체화/주문 상태 종류.md",
     "기능 구체화/판매 관리 기능.md",
-    "tool/Cursor/참고자료.md",
     "tool/Cursor/0. cursor.md",
     "tool/Ux Pilot",
-    "기능 구체화/🤓 아하.md",
-    "Development Workflow/Code Editor.md",
     "무제.canvas",
-    "2025-05-10.md",
-    "기능 구체화/의문.md",
     "기능 구체화/1. 주문 관리/1-1. 주문 조회",
     "기능 구체화/무제",
     "기능 구체화/1. 주문 관리",
-    "기능 구체화/2. 취소 관리",
-    "기능 구체화",
-    "Development Workflow"
+    "기능 구체화/2. 취소 관리"
   ]
 }

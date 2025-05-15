@@ -66,3 +66,11 @@
 
 그니까 조회와 등록을 한번에 생각한 DTO를 설계해야할지 - OrderDto
 response만 생각할지 - OrderDetailRsponseDto
+
+
+
+---
+# 의문????????
+dto를 공유한다는 차원이 request와 response의 공유도 해당이 되는걸까? 각각의 dto를 각각 생성해서 사용하는 로직을 많이 보았는데 분리한 이유는 있지 않을깣
+dto의 설계는 과연 table단위인가 아니면 로직에 필요한 데이터를 묶기 위함인가
+후자가 아닌가?!
