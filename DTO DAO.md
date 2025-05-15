@@ -5,6 +5,7 @@
 	- orderStatus
 	- orderId
 	- userId
+	
 - **OrderResponseDto** : 주문
 	- orderId
 	- userId
@@ -13,21 +14,29 @@
 	- payment
 	- orderTotalCount
 	- orderTotalPrice
+	
 - **OrderDto**
 	- orderId
-	- userId
+	- **CustomerDto**
 	- orderDate
 	- orderStatus
 	- payment
 	- orderTotalCount
 	- orderTotalPrice
-	- List\<OrderDetailDto\>
+	- List\<**OrderDetailDto**\>
 - **OrderDetailDto**
 	- orderDetailId
 	- orderId
 	- bookId
 	- orderDetailTotalCount
 	- orderDetailTotalPrice
+- **CustomerDto**
+
+
+
+
+
+
 
 - ~~count(Response)Dto
 
