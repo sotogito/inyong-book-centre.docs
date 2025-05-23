@@ -1,0 +1,3 @@
+- 통합 주문 : /sales/salesList.page
+- 주문 관리 : /sales/orderControl
+- 취소 관리 : /sales/cancelControl

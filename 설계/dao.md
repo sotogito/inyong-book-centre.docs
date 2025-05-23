@@ -6,7 +6,6 @@
 	- int updateOrderStatus(OrderStatusUpdateRequestDto orderStatusUpdateRequest)
 		- 주문 상태 변경
 	- int selectOrderListCountByFilter(OrderRequestFilterDto filter);
-
 --- 
 - CustomerDao
 	- CustomerDto selectCustormerById(int userId);

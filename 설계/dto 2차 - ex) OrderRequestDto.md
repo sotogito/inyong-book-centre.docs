@@ -28,7 +28,6 @@
 	- payment
 	- orderDate
 	- orderStatus
-
 - **OrderResponseDto** : 주문 상세페이지 결과 - 주문 1개
 	- orderId
 	- **CustomerDto**
@@ -38,7 +37,6 @@
 	- orderDate
 	- orderStatus
 	- List\<**OrderDetailResponseDto**\> 
-	
 - **OrderDetailResponseDto**
 	- orderDetailId
 	- bookId
